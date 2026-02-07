@@ -1,0 +1,32 @@
+[
+  {
+    "idPreguntas": "1",
+    "DescripcionPregunta": "React es un framework de javascript?",
+    "respuestaCorrecta": false,
+    "puntajePregunta": 1
+  },
+  {
+    "idPreguntas": "2",
+    "DescripcionPregunta": "La capital de Honduras es Tegucigalpa?",
+    "respuestaCorrecta": true,
+    "puntajePregunta": 1
+  },
+  {
+    "idPreguntas": "3",
+    "DescripcionPregunta": "El sol es una Estrella?",
+    "respuestaCorrecta": true,
+    "puntajePregunta": 1
+  },
+  {
+    "idPreguntas": "4",
+    "DescripcionPregunta": "El cafe es una semilla?",
+    "respuestaCorrecta": true,
+    "puntajePregunta": 1
+  },
+  {
+    "idPreguntas": "5",
+    "DescripcionPregunta": "JavaScript es un lenguaje orientado a objetos?",
+    "respuestaCorrecta": true,
+    "puntajePregunta": 1
+  }
+]
