@@ -1,3 +1,4 @@
+'use client';
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./globals.css";
 import { TriviaProvider, useTrivia } from "./context/triviaContext";
